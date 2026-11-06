@@ -1,0 +1,7 @@
+{
+  "meals": [
+    { "id": 1, "name": "Oatmeal & berries", "mealType": "Breakfast", "diet": "Veg", "kcal": 290, "protein": 9, "carbs": 52, "fat": 6 },
+    { "id": 2, "name": "Grilled chicken bowl", "mealType": "Lunch", "diet": "Non-Veg", "kcal": 480, "protein": 42, "carbs": 38, "fat": 14 },
+    { "id": 3, "name": "Spinach & lentil salad", "mealType": "Dinner", "diet": "Vegan", "kcal": 310, "protein": 18, "carbs": 34, "fat": 9 }
+  ]
+}
